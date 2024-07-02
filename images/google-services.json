@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333304376609",
+    "project_id": "studygears-55c4c",
+    "storage_bucket": "studygears-55c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333304376609:android:749e05aac74c8f6f23a260",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333304376609-vjl8iin3vh7oi72s2v2cr0oepn27ij69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_YGErcTfcbQXOxTOt23N0dnyInN_7u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333304376609-vjl8iin3vh7oi72s2v2cr0oepn27ij69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
